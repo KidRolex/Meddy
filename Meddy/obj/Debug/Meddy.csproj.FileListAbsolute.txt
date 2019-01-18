@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\bin\Debug\Meddy.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\bin\Debug\Meddy.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\bin\Debug\Meddy.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\obj\Debug\Meddy.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\obj\Debug\Meddy.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\obj\Debug\Meddy.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\obj\Debug\Meddy.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Meddy\Meddy\obj\Debug\Meddy.Form1.resources
